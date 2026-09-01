@@ -1,5 +1,36 @@
-La exploración se amplía mediante una página de detalle de vendedores y un tooltip contextual con los cinco vendedores de mayor aporte para cada sucursal.
+# Rendimiento de vendedores | 2018-2020
 
+Proyecto de análisis comercial desarrollado en Power BI para estudiar las ventas, la rentabilidad, el volumen de operaciones y el desempeño territorial de una empresa del sector comercial dedicada a la distribución de productos en Argentina.
+
+El reporte transforma registros de ventas de 2018 a 2020 en una experiencia de análisis guiada: comienza con una visión general del negocio, identifica una oportunidad de mejora en la zona Occidente y finaliza con un plan de acción orientado a aumentar el volumen sin deteriorar la rentabilidad.
+
+## Objetivo
+
+Construir una solución de inteligencia de negocio que permita:
+
+- Comprender la evolución mensual de las ventas y el volumen vendido.
+- Comparar el desempeño de zonas, sucursales y vendedores.
+- Analizar ventas, costos, margen y cantidad de pedidos bajo un mismo contexto de filtros.
+- Detectar oportunidades comerciales y convertir los hallazgos en acciones concretas.
+
+## Preguntas de negocio
+
+- ¿Cuál es el nivel total de ventas, margen y operaciones del período analizado?
+- ¿Cómo evolucionan las ventas y las unidades vendidas a lo largo del tiempo?
+- ¿Qué zonas y sucursales presentan mayor y menor volumen comercial?
+- ¿Qué vendedores explican el desempeño de cada sucursal?
+- ¿Dónde existe una oportunidad de crecimiento sin comprometer la rentabilidad?
+- ¿Qué acciones pueden aplicarse para mejorar el desempeño de la zona priorizada?
+
+## Historia del reporte
+
+La navegación principal está compuesta por tres escenas:
+
+1. **Vista General:** presenta el panorama completo de ventas, margen, pedidos, evolución mensual y sucursales.
+2. **Análisis de Punto Crítico:** concentra el análisis en Occidente, la zona con menor volumen comercial.
+3. **Plan de Acción:** traduce el diagnóstico en recomendaciones para aumentar operaciones y unidades vendidas.
+
+La exploración se amplía mediante una página de detalle de vendedores y un tooltip contextual con los cinco vendedores de mayor aporte para cada sucursal.
 ## Hallazgo principal
 
 Occidente registra aproximadamente **$352 millones en ventas**, **422 pedidos** y un margen cercano al **80,01 %**. La rentabilidad relativa se mantiene saludable; por lo tanto, la oportunidad principal consiste en aumentar el volumen comercial. Oriente, con aproximadamente $423 millones, se utiliza como primera referencia de comparación y permite identificar una brecha de alrededor de $71 millones.
